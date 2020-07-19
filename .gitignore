@@ -1,0 +1,10 @@
+#Ignoring data folder
+/data
+
+#Ignoring DS Store
+*.DS_Store
+
+#Ignoring ipynb_checkpoints
+.ipynb_checkpoints
+
+
